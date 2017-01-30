@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "compile": "babel --presets es2015,stage-0 -d lib/ src/",
-    "prepare": "npm run compile",
+    "install": "npm run compile",
     "ev": "npm-watch"
   },
   "watch": {

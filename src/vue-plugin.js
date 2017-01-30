@@ -125,6 +125,8 @@ module.exports = {
 
     apolloClient = options.apolloClient
 
+    prepare.apply(Vue)
+
     Vue.mixin({
 
       // Vue 1.x

@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/Akryum/vue-apollo#readme",
   "peerDependencies": {
-    "apollo-client": "^0.5.0"
+    "apollo-client": "^0.8.1"
   },
   "dependencies": {
     "graphql-tag": "^0.1.15",
